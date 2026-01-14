@@ -1,6 +1,8 @@
 # FIN 5120: Blockchain Lab!!!
 
-Welcome to the blockchain lab for FIN 5120. This project contains Python scripts for the class.
+Welcome to the blockchain lab for FIN 5120! This project contains Python scripts for the class so students can get a hands on learning experiences 
+with bockchain technology. Frequently use AI to help you understand parts you don't know! Feel free to experiment with the code and try new things. 
+Get your hands dirty!!!
 
 ## Project Overview
 
